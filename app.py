@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
-st.write("movie recommandation system created by Nishkarsh Aggarwal")
+st.write("movie recommandation system created by Shivam Kumar Singh")
 st.title("Movie Recommandation System")
 
 # movies= pickle.load(open(movies.pkl,"rb"))
